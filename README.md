@@ -4,7 +4,7 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--7999--7242-green?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-7999-7242)
  
-[![Website](https://img.shields.io/badge/taude.com-Research+Lab-blueviolet?style=flat-square&logo=firefox-browser&logoColor=white)](https://taude.com)
+[![Website](https://img.shields.io/badge/taude.co-Research+Lab-blueviolet?style=flat-square&logo=firefox-browser&logoColor=white)](https://taude.co)
  
 [![Location](https://img.shields.io/badge/Nashville%2C+TN-lightgrey?style=flat-square)](https://github.com/Tnsr-Q)
 
