@@ -19,7 +19,6 @@ Independent researcher and builder operating at the intersection of **cybersecur
 - Building active-defense frameworks that weaponize attacker compute against itself
 - Researching quadratic gravity (SIQG / Palatini inflation) and gravitational-wave echo signatures
 - Evaluating frontier LLM cybersecurity capabilities through adversarial testing
-- Operating under [**Quant Quip Labs**](https://taude.com) and the [**Taude**](https://taude.com) research identity (Tanner + Claude)
 
 -----
 
@@ -28,7 +27,7 @@ Independent researcher and builder operating at the intersection of **cybersecur
 |Project                                                 |Status                                                                      |Description                                                                                             |
 |--------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 |[**HoneyPotted**](https://github.com/Tnsr-Q/HoneyPotted)|![Active](https://img.shields.io/badge/active-brightgreen?style=flat-square)|Active-defense honeypot with compute weaponization, ML bot fingerprinting, and prompt injection trapping|
-|[**Taude**](https://taude.com)                          |![Active](https://img.shields.io/badge/active-brightgreen?style=flat-square)|Research lab and brand — Phosphor Noir aesthetic, Cloudflare Pages + Workers stack                      |
+|[**RustWorld**]((https://github.com/Tnsr-Q/Rust-World))                          |![Active](https://img.shields.io/badge/active-brightgreen?style=flat-square)|Research lab and brand — Phosphor Noir aesthetic, Cloudflare Pages + Workers stack                      |
 
 -----
 
